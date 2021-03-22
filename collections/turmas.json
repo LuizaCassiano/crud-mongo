@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "605625e7f06dc21b4d16c234"
+  },
+  "alunos": [
+    1,
+    2
+  ],
+  "id_turma": 1,
+  "nome_turma": "4SIT",
+  "curso": "Sistemas de Informacao",
+  "data_matricula": {
+    "$date": "2019-11-04T03:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6056267af06dc21b4d16c236"
+  },
+  "alunos": [
+    3
+  ],
+  "id_turma": 2,
+  "nome_turma": "4SIA",
+  "curso": "Sistemas de Informacao",
+  "data_matricula": {
+    "$date": "2019-11-24T03:00:00Z"
+  }
+}]

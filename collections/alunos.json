@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60561f1cc107146dcc13b2a7"
+  },
+  "id_aluno": 1,
+  "id_turma": 1,
+  "nome_aluno": "Carlos",
+  "data_matricula": {
+    "$date": "2000-01-04T02:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "60562002c464fd6290cffc9e"
+  },
+  "id_aluno": 2,
+  "id_turma": 1,
+  "nome_aluno": "Leandro",
+  "data_matricula": {
+    "$date": "2000-02-05T02:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6056286fa2196866016f6df6"
+  },
+  "id_aluno": 3,
+  "id_turma": 2,
+  "nome_aluno": "Rui",
+  "data_matricula": {
+    "$date": "2000-10-12T02:00:00Z"
+  }
+}]
